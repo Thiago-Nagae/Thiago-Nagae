@@ -1,7 +1,7 @@
-## Bem-vindo(a) ao perfil do Thiago-Nagae  😁
+## Bem-vindo(a) ao perfil do Thiago-Nagae que ama a maria  😁
 
  <div>
-   <a href="https://github.com/Thiago-Nagae ">
+   <a href="https://github.com/Thiago-Nagaemaria ">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Nagae&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Nagae&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
