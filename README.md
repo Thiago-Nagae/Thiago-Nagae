@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Thiago-Nagae que ama a maria  😁
+## Bem-vindo(a) ao perfil do Thiago-Nagae  😁
 
  <div>
    <a href="https://github.com/Thiago-Nagaemaria ">
